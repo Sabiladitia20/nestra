@@ -1,0 +1,25 @@
+# Dependency directories
+nestra-web/node_modules/
+nestra-web/.next/
+nestra-web/out/
+nestra-web/build/
+backend/venv/
+backend/.venv/
+backend/env/
+backend/__pycache__/
+backend/logs/
+backend/.pytest_cache/
+
+# Environments
+.env
+.env.*
+!.env.example
+backend/.env
+nestra-web/.env*
+
+# IDEs and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
