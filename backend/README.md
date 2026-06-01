@@ -1,4 +1,4 @@
-# Dashboard Mahi — AI/ML Backend
+# Dashboard Nestra — AI/ML Backend
 
 Production-ready FastAPI backend untuk AI/ML/LLM processing pada Dashboard Nestra.
 
